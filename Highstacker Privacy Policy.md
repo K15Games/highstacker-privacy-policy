@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-This privacy policy applies to the Highstacker video game (hereby referred to as "Application") for mobile devices that was created and published by K15 Games (hereby referred to as "Developer"), which includes advertisements and in-app purchases (IAPs).
+This privacy policy applies to the Highstacker video game (hereby referred to as the "Application") for mobile devices that was created and published by K15 Games (hereby referred to as the "Developer"), which includes advertisements and in-app purchases (IAPs).
 
 **Information Collection and Use**
 

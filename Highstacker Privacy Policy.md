@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This privacy policy applies to the Highstacker video game (hereby referred to as the "Application") for mobile devices that was created and published by K15 Games (hereby referred to as the "Developer"), which includes advertisements and in-app purchases (IAPs).
+This privacy policy applies to the Highstacker video game (hereby referred to as the "Application") for mobile devices that was created and published by K15 Games (hereby referred to as the "Developer").
 
 ### Information Collection and Use
 
@@ -11,8 +11,7 @@ The Application makes use of third-party services to collect gameplay related da
 
 and client-related data, such as
 *   version of the Application
-*   operating system
-*   screen size
+*   screen size of display
 
 The Application does **not** collect personally identifiable information.
 
@@ -34,13 +33,13 @@ The following links to these Privacy Policies are shown below:
 
 ### Opt-Out Rights
 
-You may uninstall the Application on your mobile device to stop collection of data collected only while running the Application, by third-party services as per the Privacy Policies listed above.
+You may uninstall the Application on your mobile device to stop collection of data by the Application, or by third-party services as per the Privacy Policies listed above.
 
 ### Children
 
 The Developer does not use the Application to intentionally solicit data from or market to children under the age of 13.
 
-The Application does not address anyone under the age of 13\. The Developer does not knowingly collect personally identifiable information from children under 13 years of age.
+The Application does not address anyone under the age of 13\. The Developer does not collect personally identifiable information from children under 13 years of age.
 
 ### Security
 
